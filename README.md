@@ -33,9 +33,10 @@ Selamat datang di profil GitHub saya! Saya Dione Alfarisi, seorang pengembang ya
 
 Berikut adalah beberapa proyek yang paling saya banggakan:
 
-### Encrypt Decrypt
-Sebuah program untuk melakukan enkripsi pada file Python agar tidak mudah diubah.
-[Encryption File](https://github.com/DioneAl-Farisi/encrypt-file-python)
+### Encrypt File
+- [Encryption File Python](https://github.com/DioneAl-Farisi/encrypt-file-python)
+- [Encryption File PHP](https://github.com/DioneAl-Farisi/encrypt-file-php)
+
 
 ## Statistik GitHub
 
