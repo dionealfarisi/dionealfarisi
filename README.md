@@ -2,7 +2,7 @@
 
 Selamat datang di profil GitHub saya! Saya Dione Alfarisi, seorang pengembang yang penuh semangat dengan kecintaan pada pembuatan perangkat lunak yang berdampak. Berikut adalah sedikit informasi tentang saya dan apa yang saya kerjakan.
 
-![Header](https://ibb.co.com/85C3vjT87)
+![Header](https://i.ibb.co/6PMh94V/68747470733a2f2f706c75732e756e73706c6173682e636f6d2f7072656d69756d5f70686f746f2d31363835303836373835.jpg)
 
 ## Tentang Saya
 
