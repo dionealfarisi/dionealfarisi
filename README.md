@@ -40,9 +40,9 @@ Berikut adalah beberapa proyek yang paling saya banggakan:
 
 ## Statistik GitHub
 
-![Statistik GitHub Anda](https://github-readme-stats.vercel.app/api?username=dioneal-farisi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dioneal-farisi&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=dioneal-farisi&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![Statistik GitHub Anda](https://github-readme-stats.vercel.app/api?username=dionealfarisi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dionealfarisi&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=dionealfarisi&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 ## Hubungi Saya
 
