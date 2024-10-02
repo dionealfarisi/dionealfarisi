@@ -1,5 +1,5 @@
 # Hello everyone 👋
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=dionealfarisi)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=dionealfarisi&style=for-the-badge)
 
 Welcome to my GitHub profile! I am Dione Alfarisi, a passionate developer with a love for creating impactful software. Here is a little information about me and what I am working on.
 
