@@ -3,7 +3,7 @@
 
 Welcome to my GitHub profile! I am Dione Alfarisi, a passionate developer with a love for creating impactful software. Here is a little information about me and what I am working on.
 
-![Header](background.gif)
+![Header](./1_uzVtquVT0jGfbNAf7Qc1UQ.gif)
 
 ## About Me
 
